@@ -15,6 +15,14 @@ press Go Live in Moblin or Larix, and your phone is a source in your OBS scene. 
 | Mac with Intel | `Sidekick.Relay_<version>_x64.dmg` |
 | Windows 10 or 11 | `Sidekick.Relay_<version>_x64-setup.exe` |
 
+## First launch
+
+Sidekick Relay isn't signed by Apple or Microsoft yet, so the first time you open it your computer asks if you trust it.
+
+- **Mac:** open the app. When macOS says it can't check it, press **Done**, then go to **System Settings > Privacy &
+  Security**, scroll down and press **Open Anyway** next to Sidekick Relay.
+- **Windows:** if a blue "Windows protected your PC" box appears, press **More info**, then **Run anyway**.
+
 The app updates itself: when a new version is out, it offers to update (never while you're live).
 
 This repository only hosts the installers. Help, ideas and bug reports:
